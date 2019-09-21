@@ -3,22 +3,13 @@
 ### Tech Lead (Java) - Virtusa Corporation
 #### melannj86@gmail.com 0719654841
 ---
-- 8+ years of experience in software development life cycle including analysis, design, development,
-implementation, testing and documentation of applications. 2+ years experience as a lead software
-engineer. 
-- Strong technical knowledge and hands-on experience in Java/Scala and good working knowledge of
-open source tools and technologies. 
-- Extensive knowledge of Internet and Web technologies, middleware development, client/
-server application development, software process improvement, and object oriented design and
-development.
-- Strong SOA knowledge and implemented SOA architecture with Web Services (SOAP, WSDL) using
-Axis 2 , Apache CXF, Jersey, Restlet 
-- Strong knowledge on code analyzers such as pmd, findbugs and integration with continuous
-integration tools like Hudson and Jenkins. 
-- Experience and proficiency with Linux, bash shell scripting, container and virtualization technologies
-(such as docker, QEmu) 
-- Familiarity with fundamentals of software configuration management, automated build processes,
-and source code control systems
+- 8+ years of experience in software development life cycle including analysis, design, development, implementation, testing and documentation of applications. 2+ years experience as a lead software engineer. 
+- Strong technical knowledge and hands-on experience in Java/Scala and good working knowledge of open source tools and technologies. 
+- Extensive knowledge of Internet and Web technologies, middleware development, client/server application development, software process improvement, and object oriented design and development.
+- Strong SOA knowledge and implemented SOA architecture with Web Services (SOAP, WSDL) using Axis 2 , Apache CXF, Jersey, Restlet 
+- Strong knowledge on code analyzers such as pmd, findbugs and integration with continuous integration tools like Hudson and Jenkins. 
+- Experience and proficiency with Linux, bash shell scripting, container and virtualization technologies (such as docker, QEmu) 
+- Familiarity with fundamentals of software configuration management, automated build processes, and source code control systems
 ---
 ## Work Experience
 
@@ -27,21 +18,11 @@ and source code control systems
 **Virtusa Corporation**
 January 2017 to Present
 
-Confidential Client, it's a world leader Managed Security Services Provider - addressing 
-complex Cyber Security Threats. it's provides cyber security solutions, including early warning, 
-actionable intelligence of cyber threats. Cyber threat forensics & remediation services for the 
-Enterprise, Education, Government & Utility customers that are common victims of serious security 
-breaches and Ransomware. Working with CSOs, IT Directors & Security Managers Managed Service
-Security Solutions to design solutions to prevent, detect, predict & rapidly respond to cyber security
-attacks. 
+Confidential Client, it's a world leader Managed Security Services Provider - addressing complex Cyber Security Threats. it's provides cyber security solutions, including early warning, actionable intelligence of cyber threats. Cyber threat forensics & remediation services for the Enterprise, Education, Government & Utility customers that are common victims of serious security breaches and Ransomware. Working with CSOs, IT Directors & Security Managers Managed Service Security Solutions to design solutions to prevent, detect, predict & rapidly respond to cyber security attacks. 
 
-- Closely work with the subject matter experts, architects and on-site team for the requirement 
-analysis and to find out the improvement opportunities. 
+- Closely work with the subject matter experts, architects and on-site team for the requirement analysis and to find out the improvement opportunities. 
 - Developed functional and technical specifications based on customer inputs and Analyzed, designed 
-- Strong experience on designing and developing systems ranging from as simple as stand-alone
-applications with a nice GUI front-end to multi-tiered web architectures that require sub-second
-response time with a high degree of scalability, manageability, availability, security, and performance.
-and implemented software deliverables as detailed in the specifications. 
+- Strong experience on designing and developing systems ranging from as simple as stand-alone applications with a nice GUI front end to multi-tiered web architectures that require sub-second response time with a high degree of scalability, manageability, availability, security, and performance. and implemented software deliverables as detailed in the specifications. 
 - Designed and implemented web services using spring, Restlet, Jersey and Lift (scala) frameworks and
 working with API modeling languages (Swagger) in order to expose API resources to consumers. 
 - Participate in architecture, design and code reviews. 
@@ -69,8 +50,7 @@ attacks.
 
 - Developed functional and technical specifications based on customer inputs and Analyzed, designed 
 and implemented software deliverables as detailed in the specifications. 
-- Designed and implemented web services using spring, Restlet, Jersey and Lift (scala) frameworks and
-working with API modeling languages (Swagger) in order to expose API resources to consumers. 
+- Designed and implemented web services using spring, Restlet, Jersey and Lift (scala) frameworks. 
 - Experience on deployment and configuration on test environment using automated tools/manual 
 - Followed Agile/Scrum methodology including working on various User Stories, 
 Sprint planning, tracking product backlog and conducting daily sync meetings across sprints. 
